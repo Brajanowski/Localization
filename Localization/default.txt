@@ -1,0 +1,11 @@
+[Localization test 1]
+{We are testing localization sytem, test no1}
+
+[Localization test 2]
+{We are testing localization sytem, test no2}
+
+[Localization test 3]
+{We are testing localization sytem, test no3}
+
+[Localization test 4 - only in default]
+{This is only in default localization file.}

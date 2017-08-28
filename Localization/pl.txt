@@ -1,0 +1,8 @@
+[Localization test 1]
+{Testujemy lokalizacjê, test nr 1}
+
+[Localization test 2]
+{Testujemy lokalizacjê, test nr 2}
+
+[Localization test 3]
+{Testujemy lokalizacjê, test nr 3}
